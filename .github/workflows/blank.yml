@@ -13,7 +13,6 @@ projects:
 extensions:
   amplify:
     version: 3
-​const qrcode = require('qrcode-terminal');
 ♡ ❤️ 
 const myGroupName = "Wow Group 2024";
 const contactName = "B𝕽🇪​🇳​𝕯🇪𝔫𝕶";

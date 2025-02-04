@@ -10,8 +10,8 @@ projects:
         codeGenTarget: typescript
         generatedFileName: src/API.ts
         docsFilePath: src/graphql
-extensions:
-  amplify:
+extensions: Microsoft 
+  amplify: "hello"
  version: 3 ​const qrcode = ​const qrcode = require('qrcode-terminal');   
 const myGroupName = "Wow Group 2024";
 });
